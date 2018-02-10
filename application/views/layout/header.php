@@ -8,6 +8,7 @@
     <title>Document</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
         crossorigin="anonymous">
+
 </head>
 
 <body>
@@ -20,6 +21,7 @@
             </button>
 
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <i class="fas fa-home"></i>
                 <ul class="navbar-nav mr-auto">
                     <li class="nav-item active">
                         <a class="nav-link" href="/">หน้าแรก
